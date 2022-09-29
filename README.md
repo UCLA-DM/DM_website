@@ -6,15 +6,15 @@ Website of our DM group.
 
 TODO list
 
-- [ ] general: create group twitter account for news update
-- [ ] general: create group youtube account for reading group video update
+- [x] general: create group twitter account for news update
+- [x] general: create group youtube account for reading group video update
 - [ ] main page: replace Yizhou's twitter account with group twitter account 
 - [ ] main page: link current quarter's reading group on the main page
-- [ ] people page: collect everyone's photo
-- [ ] people page: collect a list of master/undergrad/alumni
-- [ ] research page: a high-level paragraph summary
-- [ ] research page: funding agency
-- [ ] research page: tags linking to a group of publications
-- [ ] publication page: tags, bibtex, code link, etc
+- [x] people page: collect everyone's photo
+- [x] people page: collect a list of master/undergrad/alumni
+- [x] research page: a high-level paragraph summary
+- [x] research page: funding agency
+- [x] research page: tags linking to a group of publications
+- [x] publication page: tags, bibtex, code link, etc
 - [ ] reading group page: fill in the historical slides and videos
 - [ ] reading group page: shrink forms to avoid the page being too long
